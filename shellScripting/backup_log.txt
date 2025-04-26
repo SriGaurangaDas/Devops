@@ -1,0 +1,30 @@
+Creating backup: /root/Devops/shellScripting/backups/backup_2025-04-26_18-16-01.zip
+  adding: file1.txt (stored 0%)
+  adding: file2.txt (stored 0%)
+  adding: file3.txt (stored 0%)
+Rotating backups, keeping latest 5 backups...
+Backup and rotation complete!
+Creating backup: /root/Devops/shellScripting/backups/backup_2025-04-26_18-17-01.zip
+  adding: file1.txt (stored 0%)
+  adding: file2.txt (stored 0%)
+  adding: file3.txt (stored 0%)
+Rotating backups, keeping latest 5 backups...
+Backup and rotation complete!
+Creating backup: /root/Devops/shellScripting/backups/backup_2025-04-26_18-18-01.zip
+  adding: file1.txt (stored 0%)
+  adding: file2.txt (stored 0%)
+  adding: file3.txt (stored 0%)
+Rotating backups, keeping latest 5 backups...
+Backup and rotation complete!
+Creating backup: /root/Devops/shellScripting/backups/backup_2025-04-26_18-19-01.zip
+  adding: file1.txt (stored 0%)
+  adding: file2.txt (stored 0%)
+  adding: file3.txt (stored 0%)
+Rotating backups, keeping latest 5 backups...
+Backup and rotation complete!
+Creating backup: /root/Devops/shellScripting/backups/backup_2025-04-26_18-20-01.zip
+  adding: file1.txt (stored 0%)
+  adding: file2.txt (stored 0%)
+  adding: file3.txt (stored 0%)
+Rotating backups, keeping latest 5 backups...
+Backup and rotation complete!

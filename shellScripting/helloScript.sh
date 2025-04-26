@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello, This is my first Script"
+echo "Hello, This is my first Script" > output.txt
