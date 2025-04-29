@@ -1,0 +1,3 @@
+[submodule "bookX"]
+	path = bookX
+	url = git@github.com:SriGaurangaDas/BookX.git
